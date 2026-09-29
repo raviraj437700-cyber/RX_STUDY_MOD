@@ -1,1 +1,17 @@
-{"name":"rx-study-mod","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@vite-pwa/next":"^1.1.0","jspdf":"^3.0.3","next":"^15.5.4","pdfjs-dist":"^5.4.54","react":"^19.1.1","react-dom":"^19.1.1"}}
+{
+  "name": "rx-study-mod",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "jspdf": "^3.0.3",
+    "next": "^15.5.4",
+    "pdfjs-dist": "^5.4.54",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
